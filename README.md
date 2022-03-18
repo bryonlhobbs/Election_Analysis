@@ -33,7 +33,7 @@ This produced results shown below, which matched what had previously been calcul
 
 The largest county by voter turnout was Denver County by a wide margin.
 
-  -   Befoe calculating county data, I was asked to code a porogram to determine the winner of the election.  I was able to use iteration to find which candidates received votes, how many votes each candidate received, and the percentage of total votes each candidate's percentage represented.  The code was similar to how I determined the county breakdown, as can be seen below, along with the results.
+  -   Before calculating county data, I was asked to code a porogram to determine the winner of the election.  I was able to use iteration to find which candidates received votes, how many votes each candidate received, and the percentage of total votes each candidate's percentage represented.  The code was similar to how I determined the county breakdown, as can be seen below, along with the results.
 
 <img width="607" alt="Candidate_Vote_Counter_Code" src="https://user-images.githubusercontent.com/99457275/159082951-acaf3db4-e9a0-4728-a078-e21a9730f9b4.png">
 
